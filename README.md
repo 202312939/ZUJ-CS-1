@@ -8,3 +8,6 @@ University: Al-Zaytoonah University of Jordan
 
 Major: Computer Science
 this is my first  Github
+## Week 3 Activity
+
+This repository demonstrates Git and GitHub operations.
