@@ -11,3 +11,5 @@ this is my first  Github
 ## Week 3 Activity
 
 This repository demonstrates Git and GitHub operations.
+welcome again
+
